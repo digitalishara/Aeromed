@@ -5,7 +5,7 @@
 #### STEP 1
 
  ```sh
-   git clone https://github.com/Aeromed/Pharmacy-Management-Application.git
+   git clone https://github.com/digitalishara/Aeromed.git
    ```
 
 #### STEP 2

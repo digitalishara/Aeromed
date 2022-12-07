@@ -5,7 +5,7 @@
 #### STEP 1
 
  ```sh
-   git clone https://github.com/payalpatra/Pharmacy-Management-Application.git
+   git clone https://github.com/Aeromed/Pharmacy-Management-Application.git
    ```
 
 #### STEP 2
@@ -75,7 +75,7 @@
 
 ### Give this a ✨ if you like it 😊
 ## Author
-### Payal Patra
+### Robin Raj/ Rutuparna
 #### Let's Connect 🚀
 
 <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
